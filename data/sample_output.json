@@ -1,0 +1,10 @@
+[
+    {
+        "url": "https://www.dice.com/job-detail/abc123",
+        "title": "Software Engineer",
+        "company_name": "Tech Inc.",
+        "location": "San Francisco, CA",
+        "salary": "120k",
+        "skills": ["Python", "Django", "AWS"]
+    }
+]
