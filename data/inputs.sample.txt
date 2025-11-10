@@ -1,0 +1,3 @@
+# Sample input for job search query
+software engineer
+San Francisco, CA
